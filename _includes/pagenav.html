@@ -1,0 +1,22 @@
+<div class="page-nav">
+{% assign sorted_pages = (site.pages | sort: 'path') %}
+{% assign isNext = false %}
+{% assign previousTitle = nil %}
+{% assign previousUrl = nil %}
+{% for item in sorted_pages %}
+    {% if item.title %}
+    	 {% if isNext %}
+    	 	{% assign isNext = false %}
+    	 	<a class="next-page" href="{{site.url}}{{item.url}}">Next:<br />{{item.title}}</a>
+    	 {% endif %}
+    	 {% if item.url == page.url %}
+    	 	{% assign isNext = true %}
+    	 	{% if previousTitle != nil %}
+    	 	<a class="prev-page" href="{{site.url}}{{previousUrl}}">Previous:<br />{{previousTitle}}</a>
+    	 	{% endif %}
+    	 {% endif %}
+    	 {% assign previousTitle = item.title %}
+    	 {% assign previousUrl = item.url %}
+    {% endif %}
+{% endfor %}
+</div>
