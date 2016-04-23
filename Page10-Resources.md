@@ -12,7 +12,7 @@ title: Resources
 #Specsheets
 
 - [Critical Design Review Presentation]({{site.url}}/Files/Datasheets/3DAccelerometer.PDF)
-- [Critical Design Review Presentation]({{site.url}}/Files/Datasheets/3DAccelerometer.PDF)
+- [BatteryCharger.pdf]({{site.url}}/Files/Datasheets/BatteryCharger.pdf)
 - [Critical Design Review Presentation]({{site.url}}/Files/Datasheets/3DAccelerometer.PDF)
 - [Critical Design Review Presentation]({{site.url}}/Files/Datasheets/3DAccelerometer.PDF)
 - [Critical Design Review Presentation]({{site.url}}/Files/Datasheets/3DAccelerometer.PDF)
