@@ -92,6 +92,30 @@
     }
 }
 
+.page-nav {
+    background: #eee;
+    margin: $spacing-unit 0;
+    &:after {
+        display: table;
+        content: '';
+        clear: right;
+    }
+}
+.prev-page, .next-page {
+    display: inline-block;
+    padding: 6px 15px;
+    border-radius: 3px;
+}
+.prev-page {
+    display: inline-block;
+    width: 40%;
+}
+.next-page {
+    display: inline-block;
+    float: right;
+    width: 40%;
+    text-align: right;
+}
 
 
 /**
