@@ -3,6 +3,8 @@ layout: page
 title: Mechanical
 ---
 
+<img src="{{site.url}}/images/WEINBotAssambly.JPG" width="800">
+
 This section lists all mechanical and electronic parts on the prototype.
 
 All images are from the linked product page unless otherwise noted. All specifications on communication protocols, voltages, etc. are taken from the linked product datasheet unless otherwise noted.
