@@ -3,8 +3,6 @@ layout: page
 title: Team Members
 ---
 
-
-
 ![Team members]({{site.url}}/images/BETELGEUSE.JPG){: class="fullwidth"}
 
 From left to right: 
