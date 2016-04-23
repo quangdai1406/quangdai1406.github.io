@@ -3,8 +3,8 @@ layout: page
 title: Introduction
 permalink: /
 ---
-<img src="{{site.url}}/images/WEINBot.jpg" width="4800">
 
+<img src="{{site.url}}/images/WEINBot.jpg" width="4800">
 
 This project is a SLAM robot capable of airborne particle detection and surveillance. The target market is primarily cleanrooms in the semiconductor industry. A modular design will allow the robot to be used for other applications in the future. This replaces the main two current methods of particle detection: hand-held and wall-mounted sensors. This website describes the work completed to date, including background research performed, specifications and design of the current prototype, how to operate the current prototype, and future work that must be completed for a final product.
 
