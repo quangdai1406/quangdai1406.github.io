@@ -3,7 +3,7 @@ layout: page
 title: Team Members
 ---
 
-![png](WEINBot.jpg)
+
 
 ![Team members]({{site.url}}/images/BETELGEUSE.JPG){: class="fullwidth"}
 
