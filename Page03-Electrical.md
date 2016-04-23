@@ -30,3 +30,11 @@ You can access the Simulation for Controling 5 DC Motors [here](https://123d.cir
 <img src="{{site.url}}/images/SimulationWithArduinoAnalogInputs.JPG" width="400">
 
 Click [here](https://123d.circuits.io/circuits/1954302-analog-inputs-with-led-indicators) to see the simulation
+
+# Pin Assignment on BeagleBone Black
+
+## Analog Inputs Diagram
+
+<img src="{{site.url}}/images/AnalogSensorsDiagram.png" width="400">
+
+
