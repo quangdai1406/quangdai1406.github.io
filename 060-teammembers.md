@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Team Members
-permalink: /
 ---
 
 ![Team members]({{site.url}}/images/MTGWG_Team.jpg){: class="fullwidth"}
