@@ -3,7 +3,7 @@ layout: page
 title: Team Members
 ---
 
-<img src="{{site.url}}/images/BETELGEUSE.jpg" width="400">
+<img src="{{site.url}}/images/BETELGEUSE.JPG" width="400">
 
 From left to right: 
 
