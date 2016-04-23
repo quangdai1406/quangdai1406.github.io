@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mechanics & Electronics
-permalink: /hardware/
+title: Mechanical
+permalink: /
 ---
 
 This section lists all mechanical and electronic parts on the prototype.
