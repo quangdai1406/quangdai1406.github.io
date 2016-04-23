@@ -7,11 +7,11 @@ title: Team Members
 
 From left to right: 
 
-**Dai Tran** is the team lead of the SLAM Air Quality Monitoring Robot team. Her primary
-responsibility is in scheduling, organizing, and leading team and team-advisor meetings. She
-develops the content for the written and presentation aspects of the project. She handles team
-conflicts and concerns. She focuses on hardware testing and verification of electrical
-connections of components. She also supports the team in research.
+**Dai Tran** is the team lead of the SLAM Air Quality Monitoring Robot team. His primary
+responsibility is in scheduling, organizing, and leading team and team-advisor meetings. He
+develops the content for the written and presentation aspects of the project. He handles team
+conflicts and concerns. He focuses on hardware testing and verification of electrical
+connections of components. He also supports the team in research.
 
 **Erick Campos** is primarily in charge of the software design of the robot and web interface. Paul worked on
 an autonomous robot in the past, and thus has experience with the types of problems involved in
