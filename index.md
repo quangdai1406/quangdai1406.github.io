@@ -2,4 +2,4 @@
 layout: page
 ---
 
-<img src="{{site.url}}/images/WEINBot.jpg" width="4800">
+<img src="{{site.url}}/images/WEINBot.jpg" width="400">
