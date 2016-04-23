@@ -9,7 +9,7 @@ title: Resources
 - [Preliminary Design Report]({{site.url}}/Files/PreliminaryDesignReport_WineryBot_EME185A_W2016.pdf) 
 - [Critical Design Review Presentation]({{site.url}}/Files/CriticalDesignReview_WineryBot_EME185A - W2016.pdf)
 
-#Specsheets
+# Specsheets
 
 - [3DAccelerometer.PDF]({{site.url}}/Files/Datasheets/3DAccelerometer.PDF)
 - [BatteryCharger.pdf]({{site.url}}/Files/Datasheets/BatteryCharger.pdf)
