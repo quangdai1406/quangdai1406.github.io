@@ -5,7 +5,7 @@ Documentation website for slambot project.
 
 Main project repository: https://github.com/quangdai1406/quangdai1406.github.io
 
-Documentation website: https://www.daidieu.com
+Documentation website: http://www.daidieu.com
 
 License
 -------
