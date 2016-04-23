@@ -5,5 +5,6 @@ title: Resources
 
 # Project Report
 
-- [Report 01]({{site.url}}/files/EME185A Project 1 Report - Team Winery Bot Winter2016.pdf)
-- [Presentation 2]({{site.url}}/files/Final Report - Winery Bot - EME185A - W2016.pdf) 
+- [Project Proposal]({{site.url}}/files/EME185AProject1Report_TeamWineryBot_Winter2016.pdf)
+- [Preliminary Design Report]({{site.url}}/files/PreliminaryDesignReport_WineryBot_EME185A_W2016.pdf) 
+- [Critical Design Review Presentation]({{site.url}}/files/CriticalDesignReview_WineryBot_EME185A - W2016.pdf)
