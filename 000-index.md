@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<img src="{{site.url}}/images/WEINBot.jpg" width="400">
+<img src="{{site.url}}/images/WEINBot01.JPG" width="600">
 
 # Introduction
 
