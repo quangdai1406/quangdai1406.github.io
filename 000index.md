@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Home
 ---
 
 <img src="{{site.url}}/images/WEINBot.jpg" width="400">
