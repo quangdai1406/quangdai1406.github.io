@@ -2,4 +2,4 @@
 layout: page
 title: Software
 ---
-<img src="{{site.url}}/images/WEINBot01.JPG" width="500">
+<img src="{{site.url}}/images/WEINBot.jpg" width="600">
