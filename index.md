@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+permalink: /
 ---
 
 <img src="{{site.url}}/images/WEINBot.jpg" width="400">
