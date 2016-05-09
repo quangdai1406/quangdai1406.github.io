@@ -3,6 +3,8 @@ layout: page
 title: Usage
 ---
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/TvKfzKD2yrs/0.jpg)](http://www.youtube.com/watch?v=TvKfzKD2yrs "WEINBotTestting01")
+
 ```python
 ## Import Modulus
 from __future__ import division # To prevent 1/2=0
