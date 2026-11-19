@@ -1,7 +1,4 @@
 
-/**
- * Reset some basic elements
- */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -12,7 +9,6 @@ dl, dd, ol, ul, figure {
 
 
 
-// Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
@@ -29,7 +25,6 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
 $content-width:    1200px;
 
 $on-palm:          600px;
@@ -37,13 +32,6 @@ $on-laptop:        800px;
 
 
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -52,7 +40,6 @@ $on-laptop:        800px;
 
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "layout",
         "syntax-highlighting"
@@ -60,9 +47,6 @@ $on-laptop:        800px;
 
 
 
-/**
- * Basic styling
- */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
@@ -77,9 +61,6 @@ body {
 
 
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -89,9 +70,6 @@ ul, ol, dl, figure,
 
 
 
-/**
- * Images
- */
 img {
     max-width: 100%;
     vertical-align: middle;
@@ -99,9 +77,6 @@ img {
 
 
 
-/**
- * Figures
- */
 figure > img {
     display: block;
 }
@@ -112,9 +87,6 @@ figcaption {
 
 
 
-/**
- * Lists
- */
 ul, ol {
     margin-left: $spacing-unit;
 }
@@ -128,18 +100,12 @@ li {
 
 
 
-/**
- * Headings
- */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
 
 
-/**
- * Links
- */
 a {
     color: $brand-color;
     text-decoration: none;
@@ -156,9 +122,6 @@ a {
 
 
 
-/**
- * Blockquotes
- */
 blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
@@ -174,9 +137,6 @@ blockquote {
 
 
 
-/**
- * Code formatting
- */
 pre,
 code {
     font-size: 15px;
@@ -202,9 +162,6 @@ pre {
 
 
 
-/**
- * Wrapper
- */
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -224,9 +181,6 @@ pre {
 
 
 
-/**
- * Clearfix
- */
 %clearfix {
 
     &:after {
@@ -238,9 +192,6 @@ pre {
 
 
 
-/**
- * Icons
- */
 .icon {
 
     > svg {
